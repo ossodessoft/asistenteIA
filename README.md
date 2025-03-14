@@ -5,3 +5,6 @@ _AsistenteIA_ es un proyecto de **inteligencia artificial** en Python que respon
 Está diseñado para aprender sobre **GPT, IA y automatización** de forma sencilla y práctica.  
 
 ## 📂 Estructura del Proyecto
+
+## ✨ Notas adicionales
+- Este proyecto es parte de mi aprendizaje con Git y GitHub.
